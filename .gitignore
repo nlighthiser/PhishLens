@@ -32,3 +32,18 @@ google-services.json
 
 # Android Profiling
 *.hprof
+# Android Studio / Gradle
+.gradle/
+.idea/
+build/
+app/build/
+
+# Local computer settings
+local.properties
+
+# Signing keys
+*.jks
+*.keystore
+
+# API keys and secrets
+.env

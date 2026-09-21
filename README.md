@@ -15,7 +15,7 @@ PhishLens is currently in active development.
 
 Current Version: `v0.1.0`
 
-## 🛡 Planned Features
+## Planned Features
 
 - [ ] URL phishing scanner
 - [ ] QR code scanner
@@ -29,7 +29,7 @@ Current Version: `v0.1.0`
 
 Screenshots will be added as development progresses.
 
-## 🛠 Built With
+##  Built With
 
 - Kotlin
 - Android Studio
